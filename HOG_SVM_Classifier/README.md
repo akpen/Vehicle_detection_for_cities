@@ -1,1 +1,1 @@
-# Implementation of HOG Features and SVM Classifier Object Detection framework
+# HOG Features/SVM Classifier Object Detection framework
